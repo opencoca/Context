@@ -8,7 +8,7 @@ Usage
 
 You may install this extension from its google chrome webstore page
 
-https://chrome.google.com/webstore/detail/aalnjolghjkkogicompabhhbbkljnlka
+https://chrome.google.com/webstore/detail/TODO 
 
 or download it and manually load as an 'Unpacked extension' via chrome extensions page.
 
